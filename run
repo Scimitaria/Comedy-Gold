@@ -6,3 +6,7 @@ echo ""
 
 echo "** LISP **"
 sbcl --script funny.lisp
+echo ""
+
+echo "PERL"
+perl funny.pl
