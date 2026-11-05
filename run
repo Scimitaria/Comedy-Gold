@@ -1,0 +1,8 @@
+#!/bin/zsh
+
+echo "** JAVASCRIPT **"
+node funny.js
+echo ""
+
+echo "** LISP **"
+sbcl --script funny.lisp
